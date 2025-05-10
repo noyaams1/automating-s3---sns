@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# AWS credentials (do not commit)
+.aws/
+
+# Mac system files
+.DS_Store
